@@ -1,2 +1,2 @@
 # django_elastic_apm
-App for sending user report to customer every one hour. This app has different modules like Celery, Elastic Search, APM , cron schedule.
+This App used for sending user report to customer every one hour. This app has different modules like Celery, Elastic Search, APM, cron schedule.
