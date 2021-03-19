@@ -10,7 +10,7 @@ django-elasticsearch-dsl-drf==0.20.5
 django-excel-response2==2.0.8
 django-nine==0.2.2
 django-six==1.0.4
-djangorestframework==3.11.0
+djangorestframework==3.11.2
 docopt==0.4.0
 elastic-apm==5.3.2
 elasticsearch==7.0.4
